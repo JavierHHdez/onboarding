@@ -1,0 +1,4 @@
+#Tue Mar 20 16:45:59 CST 2018
+base.0=/home/javier/onboarding/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/javier/onboarding/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
